@@ -1,0 +1,1 @@
+This bug occurs when using a third-party library in React Native that is not compatible with the current version of React Native or has conflicting dependencies.  This can manifest as unexpected behavior, crashes, or build errors.  For example, the library might use deprecated APIs or have incompatible native modules.
